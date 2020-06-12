@@ -33,3 +33,4 @@ jobs:
         mirror uiwjs reset-css
         mirror uiwjs logo
         mirror uiwjs icons
+        mirror uiwjs province-city-china
