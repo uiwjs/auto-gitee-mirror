@@ -31,6 +31,7 @@ jobs:
         mirror uiwjs react-markdown-editor
         mirror uiwjs react-code-preview
         mirror uiwjs reset-css
+        mirror uiwjs react-markdown-preview
         mirror uiwjs logo
         mirror uiwjs icons
         mirror uiwjs province-city-china
