@@ -36,3 +36,4 @@ jobs:
         mirror uiwjs icons
         mirror uiwjs province-city-china
         mirror uiwjs react-native-alipay
+        mirror uiwjs react-native-amap-geolocation
