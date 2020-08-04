@@ -35,3 +35,4 @@ jobs:
         mirror uiwjs logo
         mirror uiwjs icons
         mirror uiwjs province-city-china
+        mirror uiwjs react-native-alipay
