@@ -24,6 +24,7 @@ jobs:
         }
         mirror uiwjs react-md-editor
         mirror uiwjs react-baidu-map
+        mirror uiwjs react-amap
         mirror uiwjs react-native-uiw
         mirror uiwjs react-codemirror
         mirror uiwjs react-shields
