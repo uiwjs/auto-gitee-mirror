@@ -35,6 +35,7 @@ jobs:
         mirror uiwjs react-markdown-preview
         mirror uiwjs logo
         mirror uiwjs icons
+        mirror uiwjs ui-color
         mirror uiwjs province-city-china
         mirror uiwjs react-native-alipay
         mirror uiwjs react-native-amap-geolocation
